@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,aACI,aAAc,CACd,wBACJ","file":"main.99d98a14.chunk.css","sourcesContent":["button:hover {\n    color: #c9960a;\n    background-color: #f4f4f4;\n}"]}
